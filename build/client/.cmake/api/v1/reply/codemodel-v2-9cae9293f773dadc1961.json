@@ -1,0 +1,79 @@
+{
+	"configurations" :
+	[
+		{
+			"directories" :
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-63d9b0580126d7ae583c.json",
+					"minimumCMakeVersion" :
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" :
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" :
+			[
+				{
+					"directoryIndexes" :
+					[
+						0
+					],
+					"name" : "client",
+					"targetIndexes" :
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" :
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_node-d3fb5b107134b1e17ecc.json",
+					"name" : "client_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_uninstall-5139824df55113b8f82f.json",
+					"name" : "client_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-dbde94ef1e07a5f5ee86.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" :
+	{
+		"build" : "/home/step-len02/my_test/build/client",
+		"source" : "/home/step-len02/my_test/src/client"
+	},
+	"version" :
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

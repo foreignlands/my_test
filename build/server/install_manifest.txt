@@ -1,0 +1,16 @@
+/home/step-len02/my_test/install/server/lib/server/server_node
+/home/step-len02/my_test/install/server/share/ament_index/resource_index/package_run_dependencies/server
+/home/step-len02/my_test/install/server/share/ament_index/resource_index/parent_prefix_path/server
+/home/step-len02/my_test/install/server/share/server/environment/ament_prefix_path.sh
+/home/step-len02/my_test/install/server/share/server/environment/ament_prefix_path.dsv
+/home/step-len02/my_test/install/server/share/server/environment/path.sh
+/home/step-len02/my_test/install/server/share/server/environment/path.dsv
+/home/step-len02/my_test/install/server/share/server/local_setup.bash
+/home/step-len02/my_test/install/server/share/server/local_setup.sh
+/home/step-len02/my_test/install/server/share/server/local_setup.zsh
+/home/step-len02/my_test/install/server/share/server/local_setup.dsv
+/home/step-len02/my_test/install/server/share/server/package.dsv
+/home/step-len02/my_test/install/server/share/ament_index/resource_index/packages/server
+/home/step-len02/my_test/install/server/share/server/cmake/serverConfig.cmake
+/home/step-len02/my_test/install/server/share/server/cmake/serverConfig-version.cmake
+/home/step-len02/my_test/install/server/share/server/package.xml

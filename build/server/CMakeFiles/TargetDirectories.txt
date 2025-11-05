@@ -1,0 +1,10 @@
+/home/step-len02/my_test/build/server/CMakeFiles/uninstall.dir
+/home/step-len02/my_test/build/server/CMakeFiles/server_uninstall.dir
+/home/step-len02/my_test/build/server/CMakeFiles/server_node.dir
+/home/step-len02/my_test/build/server/CMakeFiles/test.dir
+/home/step-len02/my_test/build/server/CMakeFiles/edit_cache.dir
+/home/step-len02/my_test/build/server/CMakeFiles/rebuild_cache.dir
+/home/step-len02/my_test/build/server/CMakeFiles/list_install_components.dir
+/home/step-len02/my_test/build/server/CMakeFiles/install.dir
+/home/step-len02/my_test/build/server/CMakeFiles/install/local.dir
+/home/step-len02/my_test/build/server/CMakeFiles/install/strip.dir
